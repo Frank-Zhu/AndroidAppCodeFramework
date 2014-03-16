@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Collection</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="store_select">店铺选择</string>
+    <string name="login_account">用户账号</string>
+    <string name="login_account_hint">请输入用户名</string>
+    <string name="login_password">用户密码</string>
+    <string name="login_password_hint">请输入密码</string>
+    <string name="login">登录</string>
+    <string name="title_activity_base_fragment">BaseFragmentActivity</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="account_password_empty">账号或密码不能为空</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
